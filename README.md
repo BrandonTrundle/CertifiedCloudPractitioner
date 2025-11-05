@@ -1,9 +1,9 @@
----
-
 ## 🧠 What’s Inside
 
 ### **Domain 1 – Cloud Concepts**
+
 Covers:
+
 - **1.1 Benefits of AWS Cloud**  
   (Agility, elasticity, economies of scale, global infrastructure)
 - **1.2 AWS Well-Architected Framework**  
@@ -14,6 +14,7 @@ Covers:
   (CapEx → OpEx, rightsizing, managed services, automation)
 
 Each section contains:
+
 - **Question banks** (no answers and with answers)
 - **Explanation sets** (rationale behind each answer)
 - **Session transcripts** (graded feedback + reasoning)

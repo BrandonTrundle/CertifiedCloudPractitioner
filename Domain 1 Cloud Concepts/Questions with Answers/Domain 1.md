@@ -198,7 +198,7 @@ C. Performance Efficiency
 D. Cost Optimization
 E. Reliability
 
-Answer: B, C
+Answer: B, C (WRONG)
 Why: I know for sure that sustainability is involved when we are referencing environmental impact of our deployed IT resources. I was honestly not sure on the second pillar. I picked performance efficiency because making sure that our deployed resources run optimally will decrease the impact on the environment as well.
 
 Correct: B (Sustainability) and D (Cost Optimization)
